@@ -1,7 +1,7 @@
 {
 	"id": 1,
 	"name": "Death Star",
-	"identifier": "DS-1 platform",
+	"identifier": "DS-1 platform andy here",
 	"commander": "Grand Moff",
 	"weapon": ["superlaser", "tractor beam", "turbolaser"],
 	"powersource": "hypermatter reactor",
